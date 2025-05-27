@@ -1,4 +1,4 @@
-#**Despliegue de ChatBot 🤖**
+# **Despliegue de ChatBot 🤖**
 
 Se añade los requeriments del proyecto que engloban aspectos claves como:
 * Instalacion de Streamlit
@@ -10,7 +10,7 @@ Se añade los requeriments del proyecto que engloban aspectos claves como:
 *Instalacion de gTTS
 **pip install gTTS**
 
-##**Indicaciones ☝🏼**
+## **Indicaciones ☝🏼**
 Construir archivo en python
 *touch chatbot.py
 *stremlit run chatbot.py
